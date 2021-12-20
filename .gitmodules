@@ -1,0 +1,3 @@
+[submodule "libs/TDEBUG"]
+	path = libs/TDEBUG
+	url = https://github.com/UnknownBugs/TDEBUG.git

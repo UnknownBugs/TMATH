@@ -16,5 +16,10 @@ int main() {
     std::cout << "tmath::function::sinDegree(45): " << TMATH::FUNCTION::sinDegree(45) << std::endl;
     std::cout << "tmath::function::cosDegree(45): " << TMATH::FUNCTION::cosDegree(45) << std::endl;
 
+    std::cout << std::endl;
+
+    std::cout << "tmath::function::sinDegree(15): " << TMATH::FUNCTION::sinDegree(75) << std::endl;
+    std::cout << "tmath::function::cosDegree(75): " << TMATH::FUNCTION::cosDegree(15) << std::endl;
+
     return 0;
 }
